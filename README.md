@@ -10,4 +10,4 @@ Tengo 20 años, y es mi segundo año en la carrera. Soy gracioso, me gusta mucho
 
 verano siempre
 
-![fotoPersonal](C:\Users\felil\Downloads\fotoPersonal.jpeg)
+![fotoPersonal](https://github.com/pdepjm/2025-tp0-presentacion-feluque/blob/main/fotoPersonal.jpeg?raw=true)
